@@ -1,2 +1,18 @@
+# Compiled files
 *.class
-.vscode/
+
+# Build folders
+target/
+bu*ld/
+out/
+
+# VS Code
+*vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+* OS
+.DS_Store
+Thumb*.db
